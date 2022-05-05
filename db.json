@@ -1,0 +1,68 @@
+{
+  "comments": [
+    {
+      "name": "Arman",
+      "surname": "Grigoryan",
+      "mail": "arman.gmail.com",
+      "password": "aper1234",
+      "initialContacts": [
+        {
+          "name": "Aram",
+          "surname": "Bryan",
+          "mail": "bryanmayis95@gmail.com",
+          "phone": "077777777"
+        },
+        {
+          "name": "Grig",
+          "surname": "Grigoryan",
+          "mail": "grigoryan@gmail.com",
+          "phone": "091534263"
+        },
+        {
+          "name": "Lilit",
+          "surname": "Abrahamyan",
+          "mail": "abrahamyan@gmail.com",
+          "phone": "043144432"
+        },
+        {
+          "name": "Varduhi",
+          "surname": "Sargsyan",
+          "mail": "grig@gmail.com",
+          "phone": "093676543"
+        }
+      ]
+    },
+    {
+      "name": "Anna",
+      "surname": "Virabyan",
+      "mail": "anna.gmail.com",
+      "password": "anna1234",
+      "initialContacts": [
+        {
+          "name": "Aram",
+          "surname": "Bryan",
+          "mail": "bryanmayis95@gmail.com",
+          "phone": "077777777"
+        },
+        {
+          "name": "Grig",
+          "surname": "Grigoryan",
+          "mail": "grigoryan@gmail.com",
+          "phone": "091534263"
+        },
+        {
+          "name": "Lilit",
+          "surname": "Abrahamyan",
+          "mail": "abrahamyan@gmail.com",
+          "phone": "043144432"
+        },
+        {
+          "name": "Varduhi",
+          "surname": "Sargsyan",
+          "mail": "grig@gmail.com",
+          "phone": "093676543"
+        }
+      ]
+    }
+  ]
+}
